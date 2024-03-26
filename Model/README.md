@@ -4,7 +4,7 @@
 
 ***
 
-### Model was trained on a custom labeled MIDI dataset of 176k+ titles for 9 hours @ 24 batches (1.1 epochs) on a single H100 GPU
+### Model was trained on a custom labeled MIDI dataset of 176k+ songs and songs titles with 4x pitches augmentation for 9 hours (1.1 epochs) @ 24 batches on a single H100 GPU
 
 ***
 
